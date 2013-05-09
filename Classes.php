@@ -28,6 +28,9 @@ class MyClass {
         
     }
 
+	function trackChanges(){
+	echo "Tracking changes on GIT";
+	}
 }
 
 ?>
